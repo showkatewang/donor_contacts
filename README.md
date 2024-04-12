@@ -1,7 +1,13 @@
 # donor_contacts
 
-Tools:
+
+
+## Tools:
 - Python
+- Jupyter
+- Pandas
+- NumPy
+- regex
 - Splinter
 - BeautifulSoup
 - Web-Driver Manager
